@@ -2,6 +2,14 @@
     font-family: 'Roboto', sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 .header,.footer,.awesome {
     background-color: #1f2937;
 }
@@ -11,14 +19,13 @@
     color: #F9FAF8;
 }
 
-
 .awesome .left h1 {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
 }
 
-.awesome .left p, .links {
+.awesome .left p, a {
     font-size: 18px;
     color: #E5E7EB;
 }
