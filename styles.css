@@ -2,7 +2,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.header,.footer,.content_one {
+.header,.footer,.awesome {
     background-color: #1f2937;
 }
 
@@ -11,18 +11,19 @@
     color: #F9FAF8;
 }
 
-.content_one .left h1 {
+
+.awesome .left h1 {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
 }
 
-.content_one .left p, .links {
+.awesome .left p, .links {
     font-size: 18px;
     color: #E5E7EB;
 }
 
-.content_three {
+.quote_section {
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
@@ -36,6 +37,6 @@
     font-weight:bold;
 }
 
-.content_four {
+.action_call {
     background-color: #E5E7EB;
 }
