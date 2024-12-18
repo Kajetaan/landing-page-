@@ -44,6 +44,6 @@ a {
     font-weight:bold;
 }
 
-.action_call {
-    background-color: #E5E7EB;
+.action_call, button {
+    background-color: #3882F6;
 }
