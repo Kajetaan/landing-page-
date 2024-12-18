@@ -12,6 +12,7 @@ a {
 
 .header,.footer,.awesome {
     background-color: #1f2937;
+    color: #F9FAF8;
 }
 
 .header .Logo p {
@@ -46,4 +47,5 @@ a {
 
 .action_call, button {
     background-color: #3882F6;
+    color: #F9FAF8;
 }
